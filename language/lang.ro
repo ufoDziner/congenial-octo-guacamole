@@ -1,0 +1,481 @@
+﻿Română
+: is %d%%,\nsafe value = %d%%
+ = %d%%,\nvaloare sigur=%d%%\n
+:# Channels
+Canale
+:%d bytes left
+%d octeți liberi
+:1-to-1
+1 la 1
+:11 Point
+11 puncte
+:13 Point
+13 puncte
+:3 Point
+3 puncte
+:4Ch w/ Dual-Rates
+4CH + D/R
+:5 Point
+5 puncte
+:6Ch Airplane
+6CH avion
+:6Ch Helicopter
+6CH, elicopter
+:7 Point
+7 puncte
+:9 Point
+9 puncte
+:ABSVAL
+VAL ABS
+:AIL Inv
+AIL Inv.
+:About Deviation
+Despre Deviation
+:Add
+Adaugă
+:Advanced
+Avansat
+:Airplane
+Avion
+:Alarm intvl
+Int. alarmă
+:All
+Toate
+:Altitude
+Altitudine
+:Backlight
+Iluminare
+:Bad/missing\nprotocol modules!
+Module protocol\nlipsă sau corupte!
+:Bar
+Bară
+:Bargraph
+Bară
+:Batt alarm
+Alarmă bat.
+:Battery too low,\ncan't save!
+Nivel baterie scăzut,\nnu pot salva!
+:Big-box
+Box mare
+:Binding %s...\nPress ENT to stop
+Conectare %s...\nApăsați ENT pentru a opri
+:Buzz volume
+Volum
+:COL
+Colectiv
+:COL Inv
+Colectiv inv.
+:COL Limit
+COL Limită
+:Calibrate
+Calibrare
+:Cancel
+Anulează
+:Celsius
+C°
+:Center PW
+Centru PW
+:Center all \nsticks and knobs\nthen press ENT
+Centrați toate stickuri-le\nși potențiometrele\nși apăsați ENT
+:Ch%d
+Can%d
+:Chan mode
+Mod canale
+:Change
+Modifică
+:Channel
+Canal
+:Channel monitor
+Monitor canale
+:Configure
+Configurează
+:Copy To
+Copiază
+:Copy To...
+Copiază...
+:Curve
+Curbă
+:Cyclic1
+Ciclic1
+:Cyclic2
+Ciclic2
+:Cyclic3
+Ciclic3
+:D/R & Exp
+DR și Expo
+:D/R&Exp -ELE
+D/R&Exp - ELE
+:Datalog
+Log date
+:Deadband
+Bandă moartă
+:Delete
+Șterge
+:Deviation FW version:
+Deviation fw. versiune:
+:Dimmer target
+Nivel auto
+:Dimmer time
+Timp auto
+:Dn
+Jos
+:Do you really want\nto reset the\n permanent timer %d?
+Sigur doriți să\resetați\ntimerul permanent %d?
+:Down
+Jos
+:ELE Inv
+ELE inv.
+:EXPO %d
+EXP. %d
+:Edit
+Editează
+:Enable
+Activează
+:Enabled
+Activat
+:Expo&DR
+Expo+DR
+:Extend
+Extinde
+:Fades
+Atenuări
+:Fahren
+F°
+:File
+Fișier
+:Fixed
+Fix
+:Fixed ID
+ID Fix
+:Fly mode
+Mod zbor
+:Foot
+Picior
+:Frame Size
+Dim. pachet
+:GPS Alt.
+Alt. GPS
+:GPS Coords
+Coord GPS
+:GPS Speed
+Viteză GPS
+:GPS Time
+Oră GPS
+:Generic settings
+Setări generale
+:Gyro sense
+Sens giro
+:H-trim
+H-Trim
+:Heli
+Elic.
+:Heli/Standard GUI
+Elicopter/Std GUI
+:Helicopter
+Elicopter
+:High-Rate
+Pos0
+:Hold position
+Poziție fixă
+:Holds
+Blocări
+:Hour
+Oră
+:Input
+Intrare
+:Inverted
+Inversat
+:L
+J
+:LCD settings
+Setări ecran
+:LEFT_H
+STÂNGA_H
+:LEFT_V
+STÂNGA_V
+:Language
+Limbă
+:Latitude
+Latitudine
+:Layout: Long-Press ENT
+Aranjament: ENT lung
+:Left
+Stânga
+:Length
+Distanță
+:Linked
+Legat
+:Load
+Încarcă
+:Load...
+Încarcă...
+:Longitude
+Longitudine
+:Loss
+Pierderi
+:Low-Rate
+Pos2
+:Main menu
+Meniu principal
+:Main page
+Pagina principală
+:Main page config
+Ecran principal
+:Max Limit
+Limită max
+:Menu
+Meniu
+:Meter
+Metru
+:Mid-Rate
+Pos1
+:Min Limit
+Limită min
+:Minute
+Minut
+:Mixer
+Configurare mixer
+:Mixer GUI
+GUI mixer
+:Mixers
+Mixere
+:Mode
+Mod
+:Mode %d
+Mod %d
+:Model menu
+Meniu model
+:Model name
+Nume model
+:Model needs reset\nfor standard mixer
+Modelul trebuie să fie\n resetat pentru mixerul standard
+:Model setup
+Profil model
+:Model type
+Tip model
+:Momentary
+Momentan
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+Mută stick-urile și potențiometrele\nla MAX și MIN\ndupă care apasă ENT
+:Neg
+Neg.
+:New
+Now
+:No
+Nu
+:No Trim
+nimic
+:None
+nimic
+:Notch PW
+Depres. PW
+:Num Channels
+Num Canale
+:Off
+Oprit
+:On
+Pornit
+:On/Off
+Pornit/Oprit
+:PIT Mix
+Mix PIT
+:PPM In
+Intrare PPM
+:PPMIn Cfg (Extend)
+Config PPM (Extinde)
+:Page
+Pagină
+:Pitch curves
+Curbe pitch
+:Plane
+Avion
+:Point
+Punct
+:Pos
+Poz.
+:Pos/Neg
+Poz/Neg
+:Position %d
+Poziția %d
+:Prealert intvl
+Interval
+:Prealert time
+Prealertă
+:Press ENT to change
+Apasaă ENT pentru schimbare
+:Press ENT to copy to
+Apasa ENT pentru copiere
+:Press ENT to load
+Apasă ENT pentru incarcare
+:Press ENT to turn \nUSB drive
+Apasă ENT pentru a seta\nmodul USB
+:PwrDn alert
+Alertă opr.
+:PwrOn alarm
+Ton pornire
+:RIGHT_H
+DREAPTA_V
+:RIGHT_V
+DREAPTA_F
+:Rate
+Rată
+:Re-Init
+Re-init
+:Reset sw
+Sw reset
+:Reverse
+Invers
+:Reversed
+Inversat
+:Revert
+Inversează
+:Right
+Dreapta
+:Safe Val
+Valoare sig.
+:Safety
+Siguranță
+:Save
+Salv.
+:Scale
+Scara
+:Scale%s
+Scară%s
+:Scanner
+Scaner
+:Second
+Secundă
+:Select
+Selectează
+:Set
+Setează
+:Set permanent timer
+Setează timer permanent
+:Set to
+Setează
+:Simple
+Simplu
+:Simple 4 Channel
+Simplu 4 canale
+:Small-box
+Box mic
+:Speed
+Viteză
+:Src
+Sursă
+:Step
+Pas
+:Stick input
+Intrări
+:Stick mode
+Mod
+:Sticks
+Stick-uri
+:Swash
+Platou
+:SwashType
+Tip platou
+:Switch
+Activator
+:Switch assignment
+Asignare act.
+:Switch1
+Act1
+:Switch2
+Act2
+:Symmetric
+Simetric.
+:TRIMLH+
+TRIMSH+
+:TRIMLH-
+TRIMSH-
+:TRIMLV+
+TRIMSV+
+:TRIMLV-
+TRIMSV-
+:TRIMRH+
+TRIMDH+
+:TRIMRH-
+TRIMDH-
+:TRIMRV+
+TRIMDV+
+:TRIMRV-
+TRIMDV-
+:Telemetry
+Telemetrie
+:Telemetry config
+Telemetrie
+:Telemetry monitor
+Monitor telemetrie
+:Telemetry settings
+Setări telemetrie
+:Temperature
+Temperatură
+:Template..
+Șablon...
+:Throttle curves
+Curba putere
+:Time
+Timp
+:Timer settings
+Setări crono
+:Timers
+Timere
+:Timeup intvl
+Expirare
+:Toggle
+Comutator
+:Touch to Lock
+Apasă pentru a încuia
+:Touch to Unlock
+Apasă pentru a descuia
+:Trainer Cfg (Channel)
+Conf trainer (Canal)
+:Trainer Cfg (Stick)
+Conf trainer (Stick)
+:Trainer Sw
+Sw trainer
+:Transmitter config
+Configurare radio
+:Transmitter menu
+Meniu radio
+:Travel adjust
+Ajustare curse
+:Trim Step
+Pas trim
+:Trimbar
+Bară trim
+:Trims
+Trim-uri
+:Tx power
+Putere tx
+:Unknown
+Necunoscut
+:Up
+Sus
+:V-trim
+V-Trim
+:Value
+Valoare
+:Vibration
+Vibrație
+:Virt
+Virt.
+:Welcome
+Bine ați venit
+:Yes
+Da
+:\n%d seconds left
+\n%d secunde stânga
+:add
+aditiv
+:is not supported
+nu este suportat(ă)
+:is turned off
+este oprit(ă)
+:mult
+mult.
+:replace
+înloc.
+:stopwatch
+crono

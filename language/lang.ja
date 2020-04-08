@@ -1,0 +1,671 @@
+﻿日本語
+: is %d%%,\nsafe value = %d%%
+   %d%%,\n セーフティ値\n= %d%%
+:# Channels
+使用Ch数
+:%d bytes left
+%d Bytes 残り
+:1 sec
+1 秒
+:10 sec
+10 秒
+:30 sec
+30 秒
+:5 sec
+5 秒
+:60 sec
+60 秒
+:6Ch Airplane
+6Ch 固定翼
+:6Ch Helicopter
+6Ch ヘリ
+:ABSVAL
+絶対値
+:AIL Inv
+AIL サーボ
+:AIL Mix
+AIL Mixing
+:About Deviation
+Deviationについて
+:Add
+追加
+:Address
+アドレス
+:Advanced
+詳細
+:Airplane
+固定翼機
+:Alarm intvl
+アラーム間隔
+:Alert intvl
+警告間隔
+:All
+ALL
+:AllCell
+セル合計
+:Alt
+高度
+:Alt.
+高度
+:Alt.max
+高度Max
+:Altitude
+高度
+:Amp
+アンプ
+:Amps
+アンプ
+:Analog Aux
+アナログAUX
+:Antenna
+アンテナ
+:Audio settings
+音源設定
+:Audio volume
+スピーカ音量
+:Auto
+自動
+:Backlight
+バックライト
+:Bad/missing\nprotocol modules!
+プロトコルモジュールの\n不良 / 不具合です!
+:Bar
+Barグラフ
+:Bargraph
+Barグラフ
+:Batt alarm
+Battery警告
+:Battery too low,\ncan't save!
+バッテリーが\n低すぎます.\n保存できません!
+:Big-box
+大BOX
+:Bind
+バインド
+:Binding %s...\nPress ENT to stop
+バインド中 %s...\n停止はENTを押すこと
+:Bitrate
+ビットレート
+:Blue-A
+青-A
+:Box
+BOX
+:Buzz volume
+ブザー音量
+:COL Inv
+COL サーボ
+:COL Mix
+COL Mixing
+:CRC invalid
+CRC無効
+:CRTP Mode
+CRTPモード
+:CRTPLOG
+CRTPログ
+:Calibration done.\n \nPress ENT.
+キャリブレーション完了\n\nENTを押して下さい
+:Celsius
+摂氏
+:Center all \nsticks and knobs\nthen press ENT
+2本のスティックと\nダイヤルを中央にし\nENTを押して下さい
+:Ch%d
+Ch %d
+:Chan 1
+Ch 1
+:Chan 2
+Ch 2
+:Chan 3
+Ch 3
+:Chan 4
+Ch 4
+:Chan 5
+Ch 5
+:Chan 6
+Ch 6
+:Chan 7
+Ch 7
+:Chan 8
+Ch 8
+:Chan mode
+Chanモード
+:Change
+変更
+:Channel monitor
+チャンネル モニタ
+:Complex
+複合
+:Configure
+設定
+:Contrast
+コントラスト
+:Copy To
+コピー
+:Copy To...
+セーブ...
+:Country
+エリア
+:Curve
+カーブ:形状
+:D/R & Exp
+レート
+:Datalog
+ログ設定
+:Deadband
+DeadBand
+:Default
+初期値
+:Delete
+削除
+:Deviation FW version:
+Deviation FW Version:
+:Dimmer target
+Scr調光レベル
+:Dimmer time
+Screenセーバ
+:Disabled
+無効
+:Dn
+下
+:Do you really want\nto reset the\n permanent timer %d?
+本当にタイマーを\nリセットしますか?\n Permanent Timer %d
+:Down
+下
+:ELE Inv
+ELE サーボ
+:ELE Mix
+ELE Mixing
+:Edit
+編集
+:Enable
+ログ有効
+:Enabled
+有効
+:Expo&DR
+レート
+:Extend
+拡張
+:External voice\ncurrently not\navailable
+　\n　　外部音声は\n現在利用できません
+:Fahren
+華氏
+:Fail-safe
+Fail-Safe
+:Failsafe
+FailSafe
+:File
+ファイル
+:Fixed
+固定値
+:Foot
+フィート
+:Freq Tune
+周波数調整
+:Freq-Coarse
+周波数粗調
+:Freq-Fine
+周波数微調
+:Fuel
+燃料
+:GPS Alt.
+GPS高度
+:GPS Coords
+GPS座標
+:GPS Speed
+GPS速度
+:GPS Time
+GPS時間
+:Generic settings
+全般設定
+:Green
+緑
+:Gyro sense
+Gyroセンサ
+:H
+高
+:H-trim
+H-Trim
+:Heli
+ヘリ
+:Heli/Standard GUI
+ヘリ/標準GUI
+:Helicopter
+ヘリコプター
+:High-Rate
+高レート
+:Hold position
+Hold Position
+:Hour
+時
+:Icon
+アイコン
+:Input
+入力
+:Intvl Scan
+スキャン間隔
+:Inverted
+反転
+:L
+低
+:LCD settings
+LCD設定
+:LEFT_H
+左_H
+:LEFT_V
+左_V
+:LQI output
+LQI出力
+:Language
+言語
+:Latitude
+緯度
+:Layout: Long-Press ENT
+レイアウト : ENT長押し
+:Left
+左
+:Length
+距離
+:Linked
+リンク
+:Load
+ロード
+:Load...
+ロード...
+:Longitude
+経度
+:Loss
+損失
+:Low-Rate
+低レート
+:M
+中
+:Main menu
+メインメニュー
+:Main page
+メインページ
+:Main page config
+メインページ設定
+:Max Limit
+最大 Limit
+:Measuring packet intervals...
+パケット間隔を測定...
+:Menu
+メニュー
+:Meter
+メートル
+:Mid-Rate
+中レート
+:Min Limit
+最小 Limit
+:Min/Max
+最小/最大
+:MinCell
+セル容量
+:Minute
+分
+:Missing Modules:\n
+モジュールの不具合:\n
+:Mixer
+ミキサー
+:Mixer    Reorder:Hold R+
+ミキサー入替 : R+長押し
+:Mixer GUI
+ミキサーGUI
+:Mixer output
+ミキサー出力
+:Mixers
+ミキサー
+:Model
+モデル
+:Model menu
+モデルメニュー
+:Model name
+モデル名
+:Model needs reset\nfor standard mixer
+標準ミキサー向けに\nモデルをリセットする\n必要があります.
+:Model setup
+モデル設定
+:Model type
+モデルタイプ
+:Momentary
+押ボタン
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+スティック,ダイヤルを\n最大 / 最小位置に動かし\nENTを押して下さい
+:Multi
+マルチ
+:Multirotor
+マルチ
+:Mux
+Mux:合波
+:Neg
+ネガ
+:No Trim
+Trimなし
+:No range test possible.
+通信レンジ テストに失敗
+:None
+なし
+:Normal
+ノーマル
+:Num Channels
+Channel番号
+:Off
+OFF
+:Offset
+オフセット
+:Ok
+OK
+:On
+ON
+:On/Off
+ON/OFF
+:Outputs
+出力
+:PIT Mix
+PIT Mixing
+:PPM%d
+PPM %d
+:PPMIn Cfg (Extend)
+PPMIn設定 (拡張)
+:Page
+ページ
+:Period (ms)
+周期 (ms)
+:Pitch
+ピッチ
+:Pitch curves
+ピッチカーブ
+:Plane
+固定翼
+:Polarity
+極性
+:Pos
+ポジ
+:Pos/Neg
+ポジ/ネガ
+:Power
+電源
+:Power reduced to
+電力減少
+:Prealert intvl
+PreAlert間隔
+:Prealert time
+PreAlert時間
+:Press ENT to change
+ENTを押して変更します
+:Press ENT to copy to
+ENTを押しコピーします
+:Press ENT to load
+ENTを押しロードします
+:Press ENT to start test.
+ENTを押しテストを開始
+:Press ENT to stop test.
+ENTを押しテストを終了
+:Press ENT to turn \nUSB drive
+ENTを押して\nUSBドライブに\n切替えます.
+:PwrDn alert
+電源OFF警告
+:PwrOn alarm
+電源ON警告
+:RIGHT_H
+右_H
+:RIGHT_V
+右_V
+:Range Test
+通信レンジ テスト
+:Rate
+ログ速度
+:Re-Init
+初期化
+:Re-bind
+バインド
+:Recording packets...
+パケットを記録...
+:Reset
+リセット
+:Reset sw
+リセットSW
+:Retries
+リトライ
+:Reverse
+リバース
+:Reversed
+リバース
+:Revert
+初期値
+:Right
+右
+:Roll
+ロール
+:Rx PWM out
+Rx PWM出力
+:RxV
+Rx電圧
+:S.PORT Out
+S.PORT 出力
+:Safe Val
+セーフティ値
+:Safety
+セーフティSW
+:SatCount
+衛星数
+:Save
+保存
+:Scale
+スケール:幅
+:Scale%s
+スケール%s
+:Scanner
+スキャン設定
+:Scanning channels and length...
+CHと波長をスキャン...
+:Scrambled
+スクランブル
+:Second
+秒
+:Select
+ログ項目
+:Servo
+サーボ
+:Servo Hz
+サーボ Hz
+:Set permanent timer
+Permanent Timer設定
+:Set protocol to XN297Dump
+プロトコルをXN297Dumpに設定
+:Set to
+セット
+:Simple
+単一
+:Simple 4 Channel
+基本 4 Channel
+:Small-box
+小BOX
+:Smooth
+滑らか
+:Speed
+速度
+:Src
+ソース:入力
+:Standard
+標準
+:Start
+スタート
+:Std
+標準
+:Step
+Trim間隔
+:Stick input
+スティック入力
+:Stick mode
+モード
+:Sticks
+スティック
+:Subtrim
+サブトリム
+:Switch
+スイッチ
+:Switch assignment
+スイッチ割当
+:Switch1
+スイッチ1
+:Switch2
+スイッチ2
+:Symmetric
+対称
+:TRIMLH+
+Trm左H+
+:TRIMLH-
+Trm左H-
+:TRIMLV+
+Trm左V+
+:TRIMLV-
+Trm左V-
+:TRIMRH+
+Trm右H+
+:TRIMRH-
+Trm右H-
+:TRIMRV+
+Trm右V+
+:TRIMRV-
+Trm右V-
+:TelemT
+Telem時間
+:Telemetry
+テレメトリー
+:Telemetry config
+テレメトリー設定
+:Telemetry monitor
+テレメトリー モニタ
+:Telemetry settings
+テレメトリー設定
+:Temp
+温度
+:Temperature
+温度
+:Throttle curves
+Throttleカーブ
+:Throttle hold
+Throttle Hold
+:Time
+時間
+:Timer
+タイマー
+:Timer %d
+タイマー%d
+:Timer settings
+タイマー設定
+:Timer%d
+タイマー%d
+:Timers
+タイマー
+:Timeup intvl
+TimeUp間隔
+:Toggle
+トグル
+:Touch to Lock
+Touchロック
+:Touch to Unlock
+Touchロック解除
+:Trainer Cfg (Channel)
+Trainer設定 (Channel)
+:Trainer Cfg (Stick)
+Trainer設定 (Stick)
+:Trainer Sw
+Trainer SW
+:Transmitter config
+送信機設定
+:Transmitter menu
+送信機メニュー
+:Travel adjust
+トラベルAdjust
+:Trim Step
+Trim間隔
+:Trimbar
+TrimBar
+:Trims
+トリム
+:Tx power
+送信出力
+:TxPower
+送信出力
+:USB
+USB接続
+:USE A.ACK
+A.ACK使用
+:Unknown
+不明
+:Up
+上
+:V-trim
+V-Trim
+:Valid CRC found!
+有効なCRCを確認!
+:Value
+値
+:Vibration
+バイブレート
+:Virt
+仮想
+:Voice config
+音声設定
+:Volt
+電圧
+:Welcome
+ようこそ
+:Yaw
+ヨー
+:Zero/Max
+ゼロ/最大
+:\n%d seconds left
+\n%d 秒後
+:add
+足し算
+:beep
+Beep
+:cntdn-prop
+CntDN-Prop
+:countdown
+CountDown
+:delay
+遅延
+:down
+下
+:is not supported
+非サポート
+:is turned off
+電源OFF
+:max
+最大
+:min
+最小
+:mult
+掛け算
+:permanent
+Permanent
+:regular
+通常
+:replace
+置換
+:rx Quality
+RX 品質
+:rx SNR
+Rx SNR
+:rxQual
+Rx品質
+:stop-prop
+Stop-Prop
+:stopwatch
+StopWatch
+:tx Quality
+TX 品質
+:tx SNR
+Tx SNR
+:txQual
+Tx品質
+:txRSSI
+TxRSSI
+:up
+上
+:vTX MHz
+VTX MHz
+:voice
+音声

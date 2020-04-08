@@ -1,0 +1,681 @@
+﻿Magyar
+: is %d%%,\nsafe value = %d%%
+ = %d%%,\na biztonságos érték = %d%%\n
+:# Channels
+Csatornák
+:%d bytes left
+%d bájt maradt
+:1 sec
+1 mp
+:1-to-1
+1 az 1
+:10 sec
+10 mp
+:11 Point
+11 pont
+:13 Point
+13 pont
+:3 Point
+3 pont
+:3 Pos
+3 állású
+:30 sec
+30 mp
+:4Ch w/ Dual-Rates
+4 csat. + DR
+:5 Point
+5 pont
+:5 sec
+5 mp
+:60 sec
+60 mp
+:6Ch Airplane
+6 csat. repülőgép
+:6Ch Helicopter
+6 csat. helikopter
+:7 Point
+7 pont
+:9 Point
+9 pont
+:ABSVAL
+ABSZ.É.
+:AIL Inv
+Csűrés inv.
+:AIL Mix
+Csűrés mix
+:About Deviation
+Deviation névjegye
+:Add
+Új
+:Advanced
+Haladó
+:AirSpd
+Légseb.
+:Airplane
+Repülőgép
+:Alarm intvl
+Riaszt. int.
+:Alert intvl
+Figy. int.
+:All
+Mind
+:AllCell
+Össz. cella
+:Alt
+Magas.
+:Alt.
+Magas.
+:Alt.max
+Max magas.
+:Altitude
+Magasság
+:Amp
+Áram
+:Amps
+Áram
+:Audio settings
+Audió beállítások
+:Audio volume
+Audió hangerő
+:Backlight
+Fényerő
+:Bad/missing\nprotocol modules!
+Hibás/hiányzó\nprotokoll modulok!
+:Bar
+Oszlop
+:Bargraph
+Oszlopdiagr.
+:Bat
+Telep
+:Batt alarm
+Fesz. riaszt.
+:Battery
+Telep
+:Battery too low,\ncan't save!
+Tápfesz. túl alacsony,\nnem tudok menteni!
+:Big-box
+Nagy doboz
+:Bind
+Csatol
+:Binding %s...\nPress ENT to stop
+Kapcsolódás %s...\nENT megállítani
+:Blue-A
+Kék-A
+:Box
+Doboz
+:Buzz volume
+Hangerő
+:COL
+Kollektív
+:COL Inv
+Koll. inv.
+:COL Limit
+Koll. limit
+:COL Mix
+Koll. mix
+:CRTP Mode
+CRTP mód
+:Calibrate
+Kalibrálás
+:Calibration done.\n \nPress ENT.
+Kalibrálás kész.\n \nNyomjon ENT-t.
+:Cancel
+Mégsem
+:Celsius
+°C
+:Center PW
+Közép imp.
+:Center all \nsticks and knobs\nthen press ENT
+Állítsa középre a \nbotkormányokat \nés a tekerőket,\nmajd nyomjon ENT-t
+:Ch
+Cs
+:Ch%d
+Cs%d
+:Chan mode
+Csat. mód
+:Change
+Váltás
+:Channel
+Csatorna
+:Channel monitor
+Csatornák
+:Complex
+Komplex
+:Configure
+Konfigurálás
+:Contrast
+Kontraszt
+:Control
+Kontroll
+:Copy To
+Másolás
+:Copy To...
+Másolás...
+:Curve
+Görbe
+:Cyclic1
+Ciklikus1
+:Cyclic2
+Ciklikus2
+:Cyclic3
+Ciklikus3
+:D/R & Exp
+D/R & Expó
+:D/R&Exp -AIL
+D/R&Expó -AIL
+:D/R&Exp -ELE
+D/R&Expó -ELE
+:D/R&Exp -RUD
+D/R&Expó -RUD
+:Datalog
+Adat napló
+:Deadband
+Holtsáv
+:Delete
+Törlés
+:Delta PW
+Kitérés
+:Deviation FW version:
+Deviation verzió:
+:Dimmer target
+Alvó fényerő
+:Dimmer time
+Alvó mód ideje
+:Disabled
+Letiltva
+:Dn
+Le
+:Do you really want\nto reset the\n permanent timer %d?
+Valóban nullázni\nakarja az üzemidő\nidőzítő %d-t?
+:Down
+Le
+:DynTrim
+Din. trim
+:ELE Inv
+Magas. inv.
+:ELE Mix
+Magas. mix
+:EXPO %d
+EXP. %d
+:Edit
+Szerkeszt
+:Enable
+Engedélyez
+:Enabled
+Engedélyezett
+:Expert
+Haladó
+:Expo&DR
+Expó+DR
+:Extend
+Kiterj.
+:External voice\ncurrently not\navailable
+Külső hang\njelenleg nem\nelérhető
+:F.Log filter
+Napló szűrés
+:Fades
+Eltűnés
+:Fahren
+°F
+:Fail-safe
+Hibaérték
+:Failsafe
+Hibaérték
+:File
+Fájl
+:Fixed
+Fix
+:Fixed ID
+Fix ID
+:Fly mode
+Rep. mód
+:Foot
+Láb
+:Format
+Formátum
+:Frame Size
+Keret
+:Freq Tune
+Frekv. hang.
+:Freq-Coarse
+Frekv. durva
+:Freq-Fine
+Frekv. finom
+:Fuel
+Üzemany.
+:GPS Alt.
+GPS magas.
+:GPS Coords
+GPS koord.
+:GPS Speed
+GPS sebes.
+:GPS Time
+GPS idő
+:Generic settings
+Általános beállítások
+:Green
+Zöld
+:Gyro sense
+Giró
+:H-trim
+Függ. trim
+:Heading
+Irány
+:Heli/Standard GUI
+Heli/Szokásos felület
+:Helicopter
+Helikopter
+:High-Rate
+Magas
+:HighSpeed
+Gyors
+:Hold position
+TH érték
+:Holds
+Tartás
+:Hour
+Óra
+:Icon
+Ikon
+:Idle Up 1
+Alapjárat 1
+:Idle Up 2
+Alapjárat 2
+:Input
+Bemenet
+:Inverted
+Inverz
+:LCD settings
+LCD beállítások
+:LEFT_H
+BAL_V
+:LEFT_V
+BAL_F
+:LQI output
+LQI kimenet
+:Language
+Nyelv
+:Latitude
+Szélesség
+:Layout: Long-Press ENT
+Elrendezés: Hosszú ENT
+:Left
+Bal
+:Length
+Hossz
+:Linked
+Csatolt
+:Load
+Betöltés
+:Load...
+Betöltés...
+:Longitude
+Hosszúság
+:Loss
+Vesztés
+:Low-Rate
+Alacsony
+:Main menu
+Főmenü
+:Main page
+Főablak
+:Main page config
+Főablak konfig.
+:Max Limit
+Max korlát
+:Menu
+Menü
+:Meter
+Méter
+:Mid-Rate
+Közepes
+:Min Limit
+Min korlát
+:MinCell
+Min. cella
+:Minute
+Perc
+:Missing Modules:\n
+Hiányzó modulok:\n
+:Mixer    Reorder:Hold R+
+Mixer  Sorrend:Hosszú R+
+:Mixer GUI
+Felület
+:Mixer output
+Mixer kimenet
+:Mixers
+Mixerek
+:Mode
+Mód
+:Mode %d
+Mód %d
+:Model
+Modell
+:Model menu
+Modell menü
+:Model name
+Modell név
+:Model needs reset\nfor standard mixer
+A modellt törölni kell\na szokásos felülethez
+:Model setup
+Modell konfig.
+:Model type
+Modell típus
+:Momentary
+Pillanat k.
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+Mozgassa a botokat \nés a tekerőket\nmin-tól max-ig,\nmajd nyomjon ENT-t
+:Mux
+Művelet
+:Neg
+Neg.
+:New
+Új
+:No
+Nem
+:No Trim
+Nincs Trim
+:No range test possible.
+Nincs hatótáv teszt.
+:None
+Nincs
+:Normal
+Normál
+:Notch PW
+Szünet
+:Num Channels
+Csat. száma
+:Off
+Ki
+:Offset
+Eltolás
+:On
+Be
+:On/Off
+Ki/Be
+:Outputs
+Kimentek
+:PIT Mix
+Koll. mix
+:PPM In
+PPM be
+:PPMIn Cfg (Extend)
+PPM be konf. (Kiterj.)
+:Page
+Oldal
+:Pitch curves
+Állásszög görbék
+:Plane
+Repülő
+:Point
+Pont
+:Pos
+Poz.
+:Pos/Neg
+Poz/Neg
+:Position %d
+Pozíció %d
+:Power reduced to
+Telj. csökkentve
+:Prealert intvl
+Előjelz. interv.
+:Prealert time
+Előjelz. idő
+:Press ENT to change
+Változtatáshoz ENT
+:Press ENT to copy to
+Másolás ENT
+:Press ENT to load
+Betöltés ENT
+:Press ENT to start test.
+ENT: Indítás.
+:Press ENT to stop test.
+ENT: Leállítás.
+:Press ENT to turn \nUSB drive
+ENT-el kapcsolhatja \naz USB-t
+:PwrDn alert
+Kikapcs. r.
+:PwrOn alarm
+Bekapcs. r.
+:RIGHT_H
+JOBB_V
+:RIGHT_V
+JOBB_F
+:RPM
+Ford.
+:RSSIChan
+RSSI cs.
+:Range Test
+Hatótáv teszt
+:Rate
+Fok
+:Re-Init
+Csatol
+:Re-bind
+Csatol
+:Reset
+Törlés
+:Reset sw
+Törlés k.
+:Reverse
+Invertálás
+:Reversed
+Inverz
+:Revert
+Mégsem
+:Right
+Jobb
+:S.PORT Out
+S.PORT ki
+:Safe Val
+Bizt. érték
+:Safety
+Biztonság
+:SatCount
+Műholdak
+:Save
+Mentés
+:Scale
+Skála
+:Scale%s
+Skála%s
+:Scanner
+Szkenner
+:Second
+Másodp.
+:Select
+Kiválaszt
+:Servo
+Szervó
+:Servo Hz
+Szervó Hz
+:Set
+Beállítás
+:Set permanent timer
+Üzemidő beállítása
+:Set to
+Beállít
+:Simple
+Egysz.
+:Simple 4 Channel
+Egyszerű 4 csat.
+:Small-box
+Kis doboz
+:Smooth
+Simítás
+:Speed
+Sebesség
+:Src
+Forrás
+:Standard
+Szokásos
+:Step
+Lépés
+:Stick
+Bot
+:Stick input
+Bemenetek
+:Stick mode
+Mód
+:Sticks
+Botkormány
+:Swash
+Imbolygó
+:SwashType
+Imbolygó
+:Switch
+Kapcsoló
+:Switch assignment
+Kapcs. összerend.
+:Switch1
+Kapcs.1
+:Switch2
+Kapcs.2
+:Symmetric
+Szimmetr.
+:TRIMLH+
+TRIM_BV+
+:TRIMLH-
+TRIM_BV-
+:TRIMLV+
+TRIM_BF+
+:TRIMLV-
+TRIM_BF-
+:TRIMRH+
+TRIM_JV+
+:TRIMRH-
+TRIM_JV-
+:TRIMRV+
+TRIM_JF+
+:TRIMRV-
+TRIM_JF-
+:Telem %d
+Telem. %d
+:TelemRPM
+TelemFord
+:TelemT
+TelemHőm
+:TelemV
+TelemFesz
+:Telemetry
+Telemetria
+:Telemetry config
+Telemetria konfig.
+:Telemetry monitor
+Telemetria adatok
+:Telemetry settings
+Telemetria beállítások
+:Temp
+Hőm.
+:Temperature
+Hőmérséklet
+:Template..
+Sablon...
+:Thr hold
+Gáz kapcs.
+:Throttle curves
+Gáz görbék
+:Throttle hold
+Gáz kapcsoló
+:Time
+Idő
+:Timer
+Időzítő
+:Timer %d
+Időzítő %d
+:Timer settings
+Időzítő beállítások
+:Timer%d
+Időzítő %d
+:Timers
+Időzítők
+:Timeup intvl
+Ismétlés interv.
+:Toggle
+Kapcs. 
+:Touch to Lock
+Érintse meg a zároláshoz
+:Touch to Unlock
+Érintse meg a feloldáshoz
+:Trainer Cfg (Channel)
+Oktató konf. (Csatorna)
+:Trainer Cfg (Stick)
+Oktató konf. (Bot)
+:Trainer Sw
+Oktató k.
+:Transmitter config
+Távirányító konfig.
+:Transmitter menu
+Távirányító menü
+:Travel adjust
+Szervóút állítás
+:Trim Step
+Trim lépés
+:Trimbar
+Trim
+:Trims
+Trim-ek
+:Tx power
+Kimenő telj.
+:TxPower
+Tx telj.
+:USE A.ACK
+Auto ACK
+:Unknown
+Ismeretlen
+:Up
+Fel
+:V-trim
+Vsz. trim
+:Value
+Érték
+:Vibration
+Rezgés
+:Virt
+Virt.
+:Voice config
+Hang konfiguráció
+:Volt
+Fesz.
+:Welcome
+Üdvözlet
+:Yes
+Igen
+:Zero/Max
+Nulla/Max
+:\n%d seconds left
+\n%d másodperc van hátra
+:add
+hozzáad
+:beep
+csipogás
+:cntdn-prop
+Gázf. időz.
+:countdown
+Időzítő
+:delay
+késlelt.
+:down
+le
+:from
+-ra, erről:
+:is not supported
+nem támogatott
+:is turned off
+ki van kapcsolva
+:mult
+szoroz
+:permanent
+Üzemidő
+:regular
+szokásos
+:replace
+cserél
+:stop-prop
+Gázf. stop.
+:stopwatch
+Stopper
+:up
+fel
+:voice
+hang

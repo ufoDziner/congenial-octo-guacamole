@@ -1,0 +1,767 @@
+﻿简体中文
+: is %d%%,\nsafe value = %d%%
+当前值为%d%%,\n安全开机设定为%d%%
+:# Channels
+通道数
+:%d bytes left
+%d字节剩余
+:1 sec
+1秒
+:1-to-1
+45度曲线
+:10 sec
+10秒
+:11 Point
+11点曲线
+:13 Point
+13点曲线
+:3 Point
+3点曲线
+:3 Pos
+3段
+:30 sec
+30秒
+:4Ch w/ Dual-Rates
+4通直升机
+:5 Point
+5点曲线
+:5 sec
+5秒
+:60 sec
+60秒
+:6Ch Airplane
+6通固定翼
+:6Ch Helicopter
+6通直升机
+:7 Point
+7点曲线
+:9 Point
+9点曲线
+:ABSVAL
+绝对值
+:AD2GAIN
+AD2增益
+:AIL
+副翼
+:AIL Inv
+副翼方向
+:AIL Mix
+副翼混控
+:ANT
+天线
+:AUX2
+辅助2
+:AUX4
+辅助4
+:AUX5
+辅助5
+:About Deviation
+关于Deviation
+:Add
+添加
+:Advanced
+高级模式
+:AirSpd
+空速
+:Airplane
+固定翼
+:Alarm intvl
+报警间隔
+:Alert intvl
+报警间隔
+:All
+全部
+:AllCell
+总电芯
+:Alt
+高度
+:Alt.
+高度
+:Alt.max
+最高
+:Altitude
+高度
+:Amp
+电流
+:Amps
+电流
+:Antenna
+天线
+:Audio settings
+声音设定
+:Audio volume
+声音音量
+:Auto
+自动
+:Backlight
+背光
+:Bad/missing\nprotocol modules!
+协议模块错误!
+:Bat
+电池
+:Batt alarm
+电量报警
+:Battery
+电量
+:Battery too low,\ncan't save!
+电压过低,\n无法存盘!
+:Big-box
+大框
+:Bind
+对频
+:Binding %s...\nPress ENT to stop
+对频中 %s...\n按ENT中止
+:Buzz volume
+蜂鸣音量
+:COL
+螺距
+:COL Inv
+螺距方向
+:COL Limit
+螺距
+:COL Mix
+螺距混控
+:Calibrate
+校准
+:Calibration done.\n \nPress ENT.
+校准结束\n\n按ENT键
+:Cancel
+取消
+:Cap
+容量
+:Capacity
+容量
+:Celsius
+摄氏
+:Center PW
+中点脉宽
+:Center all \nsticks and knobs\nthen press ENT
+将所有\n摇杆和旋钮置中\n然后按ENT
+:Ch
+通道
+:Chan mode
+通道模式
+:Change
+改变
+:Channel
+通道
+:Channel monitor
+通道监控
+:Complex
+多段式
+:Configure
+设置
+:Contrast
+对比度
+:Control
+控制
+:Copy To
+复制到
+:Copy To...
+复制...
+:Country
+地区
+:Curr
+电流
+:Curve
+曲线
+:Cyclic1
+CCPM1
+:Cyclic2
+CCPM2
+:Cyclic3
+CCPM3
+:D/R & Exp
+舵量/曲线
+:D/R&Exp -AIL
+副翼舵量/曲线
+:D/R&Exp -ELE
+升降舵量/曲线
+:D/R&Exp -RUD
+方向舵量/曲线
+:DIS
+放电
+:Datalog
+数据日志
+:Deadband
+死区
+:Default
+缺省
+:Delete
+删除
+:Delta PW
+脉宽变化
+:Deviation FW version:
+Deviation固件版本:
+:Dimmer target
+背光减弱至
+:Dimmer time
+背光减弱时间
+:Disabled
+关闭
+:Dn
+下
+:Do you really want\nto reset the\n permanent timer %d?
+是否确定\n重置持续\n计时器%d?
+:Down
+下
+:ELE
+升降
+:ELE Inv
+升降方向
+:ELE Mix
+升降混控
+:EXPO %d
+指数曲线%d
+:Edit
+编辑
+:Enable
+开启
+:Enabled
+开启
+:Enter
+进入
+:Exit
+退出
+:Expo&DR
+三段式
+:Extend
+扩展
+:External voice\ncurrently not\navailable
+外部语音模块\n不可用
+:F.Log filter
+F.Log过滤
+:FMode
+模式
+:Fahren
+华氏
+:Fail-safe
+失控保护
+:Failsafe
+失控保护
+:File
+模型文件
+:Fixed
+固定
+:Fixed ID
+固定ID码
+:Flight Mode
+飞行模式
+:Fly mode
+飞行模式
+:Foot
+英尺
+:Format
+格式
+:Frame Size
+总脉宽
+:Freq Tune
+频率调整
+:Freq-Coarse
+频率粗调
+:Freq-Fine
+频率微调
+:Fuel
+燃料
+:GPS Alt.
+GPS高度
+:GPS Coords
+GPS坐标
+:GPS Speed
+GPS速度
+:GPS Time
+GPS时间
+:Generic settings
+基本设置
+:Gyro sense
+锁尾感度
+:H
+高
+:H-trim
+横条
+:Heading
+航向
+:Heli
+直升机
+:Heli/Standard GUI
+标准直升机
+:Helicopter
+直升机
+:High-Rate
+普通飞行
+:HighSpeed
+高帧率
+:Hold position
+油门锁定值
+:Hour
+时
+:Icon
+图标
+:Idle Up 1
+高速模式1
+:Idle Up 2
+高速模式2
+:Input
+输入
+:Inverted
+反向
+:L
+低
+:LCD settings
+LCD设置
+:LEFT_H
+左水平
+:LEFT_V
+左垂直
+:LIN
+线性
+:LQI output
+LQI输出
+:Language
+语言
+:Latitude
+纬度
+:Layout: Long-Press ENT
+布局:长按ENT
+:Left
+左
+:Length
+距离
+:Linked
+关联
+:Load
+读取
+:Load...
+读取...
+:Longitude
+经度
+:Loss
+丢帧
+:Low-Rate
+低比例
+:M
+中
+:Main menu
+主菜单
+:Main page
+主页面
+:Main page config
+定制主页面
+:Max Limit
+最大舵量
+:Menu
+菜单
+:Meter
+米
+:Mid-Rate
+中等比例
+:Min Limit
+最小舵量
+:Min/Max
+最低/最高
+:MinCell
+最低电芯
+:Minute
+分钟
+:Missing Modules:\n
+缺失模块:\n
+:Mixer
+混控
+:Mixer    Reorder:Hold R+
+混控排序:长按R+
+:Mixer GUI
+设置界面
+:Mixer output
+混控输出
+:Mixers
+混控
+:Mode
+模式
+:Mode %d
+模式%d
+:Model
+模型
+:Model menu
+模型设置
+:Model name
+模型命名
+:Model needs reset\nfor standard mixer
+切换到标准模式\n需要重置,确定吗?
+:Model setup
+模型设置
+:Model type
+模型类型
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+拨动摇杆和旋钮,\n先至最小再至最大位置,\n然后按ENT
+:Multi
+多轴
+:Multirotor
+多轴
+:Mux
+作用
+:Neg
+负
+:New
+新增
+:No
+否
+:No Trim
+无微调
+:No range test possible.
+不可进行距离测试
+:None
+无
+:Normal
+正常
+:Notch PW
+通道间隔
+:Num Channels
+通道数
+:Off
+关闭
+:Offset
+偏移
+:Ok
+确定
+:On
+开启
+:On/Off
+开/关
+:OrangeRx
+橙子接收机
+:Outputs
+输出
+:PIT
+螺距
+:PIT Mix
+螺距混控
+:PPM In
+PPM输入
+:PPMIn Cfg (Extend)
+PPM输入设置(扩展)
+:Page
+模式1-N
+:Period (ms)
+周期(ms)
+:Pitch
+俯仰
+:Pitch curves
+螺距曲线
+:Plane
+固定翼
+:Point
+点
+:Polarity
+极性
+:Pos
+正
+:Pos/Neg
+正/负
+:Position %d
+档位%1
+:Power
+功率
+:Power reduced to
+功率降低到
+:Prealert intvl
+预警间隔
+:Prealert time
+预警时间
+:Press ENT to change
+按ENT更改
+:Press ENT to copy to
+按ENT复制
+:Press ENT to load
+按ENT读取
+:Press ENT to start test.
+按ENT开始测试
+:Press ENT to stop test.
+按ENT停止测试
+:Press ENT to turn \nUSB drive
+按ENT使U盘
+:PwrDn alert
+无电提示
+:PwrOn alarm
+开机报警
+:RF Mode
+RF模式
+:RFMode
+RF模式
+:RIGHT_H
+右水平
+:RIGHT_V
+右垂直
+:RPM
+转数
+:RSSIChan
+RSSI通道
+:RUD
+方向
+:Range Test
+距离测试
+:Rate
+采样率
+:Re-Init
+初始化
+:Reset
+重置
+:Reset sw
+重置开关
+:Reverse
+反向
+:Reversed
+反向
+:Revert
+回滚
+:Right
+右
+:Roll
+横滚
+:RxV
+电压
+:S.PORT Out
+S.PORT输出
+:SW A
+开关A
+:SW B
+开关B
+:SW C
+开关C
+:SW D
+开关D
+:SW E
+开关E
+:SW F
+开关F
+:SW G
+开关G
+:SW H
+开关H
+:Safe Val
+熄火值
+:Safety
+熄火开关
+:SatCount
+星数
+:Save
+保存
+:Scale
+比例
+:Scale%s
+比例%s
+:Scanner
+信号扫描器
+:Second
+秒
+:Select
+选择
+:Servo
+舵机
+:Servo Hz
+舵机频率
+:Set
+设置
+:Set permanent timer
+设置持续计时器
+:Set to
+设为
+:Simple
+一段式
+:Simple 4 Channel
+4通道
+:Small-box
+小框
+:Speed
+速度
+:Src
+输入
+:Standard
+标准模式
+:Start
+开始时间
+:Step
+幅度
+:Stick
+摇杆
+:Stick input
+摇杆输入
+:Stick mode
+摇杆模式
+:Sticks
+摇杆
+:Subtrim
+微调
+:Swash
+斜盘设置
+:SwashType
+斜盘模式
+:Switch
+开关
+:Switch assignment
+开关分配
+:Switch1
+开关1
+:Switch2
+开关2
+:Symmetric
+对称
+:THR
+油门
+:TRIMLH+
+左水平+
+:TRIMLH-
+左水平-
+:TRIMLV+
+左垂直+
+:TRIMLV-
+左垂直-
+:TRIMRH+
+右水平+
+:TRIMRH-
+右水平-
+:TRIMRV+
+右垂直+
+:TRIMRV-
+右垂直-
+:Telem %d
+回传%d
+:TelemRPM
+转数
+:TelemRSSI
+回传RSSI
+:TelemT
+温度
+:TelemV
+电压
+:Telemetry
+双向回传
+:Telemetry config
+双向回传设置
+:Telemetry monitor
+双向回传监控
+:Telemetry settings
+双向回传设置
+:Temp
+温度
+:Temperature
+温度
+:Template..
+模板..
+:Thr hold
+油门锁定
+:Throttle curves
+油门曲线
+:Throttle hold
+油门锁定
+:Time
+时间
+:Timer
+定时器
+:Timer %d
+定时器%d
+:Timer settings
+定时器设置
+:Timer%d
+定时器%d
+:Timers
+定时器
+:Timeup intvl
+超时报警间隔
+:Touch to Lock
+触碰上锁
+:Touch to Unlock
+触碰解锁
+:Trainer Cfg (Channel)
+教练设置(通道)
+:Trainer Cfg (Stick)
+教练设置(摇杆)
+:Trainer Sw
+教练开关
+:Transmitter config
+遥控设置
+:Transmitter menu
+遥控设置
+:Travel adjust
+舵机行程
+:Trim
+微调
+:Trim +
+微调+
+:Trim -
+微调-
+:Trim Step
+微调幅度
+:Trims
+微调数
+:Tx power
+发射功率
+:TxPower
+发射功率
+:Up
+上
+:V-trim
+竖条
+:Value
+值
+:Vibration
+振动
+:Virt
+虚拟
+:Voice config
+语音设置
+:Volt
+电压
+:Welcome
+欢迎
+:Yaw
+偏航
+:Yes
+是
+:Zero/Max
+零/最大
+:\n%d seconds left
+\n还剩%d秒
+:add
+附加
+:beep
+蜂鸣器
+:cntdn-prop
+比例倒计时
+:countdown
+倒计时
+:delay
+延迟
+:down
+下
+:from
+从
+:is not supported
+不支持
+:is turned off
+未开启
+:max
+最大
+:min
+最小
+:mult
+相乘
+:permanent
+持续计时
+:replace
+替换
+:rx Quality
+RX质量
+:rxQual
+RX质量
+:stop-prop
+比例秒表
+:stopwatch
+秒表
+:tx Quality
+TX质量
+:txQual
+TX质量
+:up
+上
+:voice
+语音
